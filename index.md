@@ -1,21 +1,21 @@
 # 技术类
-[爬虫框架feapder.md](爬虫框架feapder)
+[爬虫框架feapder](爬虫框架feapder.md)
 
-[数据处理模块polars.md](数据处理模块polars)
+[数据处理模块polars](数据处理模块polars.md)
 
-[mongodb数据库.md](mongodb数据库)
+[mongodb数据库](mongodb数据库.md)
 
-[web服务框架FastAPI.md](web服务框架FastAPI)
+[web服务框架FastAPI](web服务框架FastAPI.md)
 
-[arch工具类.md](arch工具类)
+[arch工具类](arch工具类.md)
 
-[1.Ozon_listing用Chatgpt生成.md](1.Ozon_listing用Chatgpt生成)
+[1.Ozon_listing用Chatgpt生成.md](1.Ozon_listing用Chatgpt生成.md)
 
-[2.Ozon图片翻译.md](2.Ozon图片翻译)
+[2.Ozon图片翻译.md](2.Ozon图片翻译.md)
 
-[3.模板批量上传.md](3.模板批量上传)
+[3.模板批量上传.md](3.模板批量上传.md)
 
-[4.1.库存表创建_篇一.md](4.1.库存表创建_篇一)
+[4.1.库存表创建_篇一.md](4.1.库存表创建_篇一.md)
 
-[4.2.库存表创建_篇二.md](4.2.库存表创建_篇二)
+[4.2.库存表创建_篇二.md](4.2.库存表创建_篇二.md)
 
