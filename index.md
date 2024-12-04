@@ -9,6 +9,9 @@
 
 [arch工具类](arch工具类.md)
 
+# 电商
+
+
 [1.Ozon_listing用Chatgpt生成.md](1.Ozon_listing用Chatgpt生成.md)
 
 [2.Ozon图片翻译.md](2.Ozon图片翻译.md)
@@ -19,3 +22,6 @@
 
 [4.2.库存表创建_篇二.md](4.2.库存表创建_篇二.md)
 
+[4.3运营表创建](4.3运营表创建.md)
+
+[量子包装要求](量子包装要求)
